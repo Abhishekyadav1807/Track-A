@@ -129,4 +129,3 @@ No AI tools or AI assistants were used to implement or verify the solution.
 ## 7. Remaining Work
 
 No assessment requirement remains unfinished.
-
